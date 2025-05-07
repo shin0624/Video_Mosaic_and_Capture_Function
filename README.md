@@ -152,15 +152,4 @@ files.download('frames_output.zip')
 ### 결과
 ![Image](https://github.com/user-attachments/assets/1be787e8-a271-4403-9008-972d4cb35109)
 
----
-title: Video Mosaic And Capture Function
-emoji: 🐢
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: 5.29.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: mosaic human in video file based YOLO8 & Capture per frame
----
+
